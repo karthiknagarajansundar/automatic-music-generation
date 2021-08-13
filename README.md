@@ -1,4 +1,4 @@
-# automatic-music-generation
+# Automatic music generation
 
 ## About the project
 The goal of the project is to generate a small track of music automatically with minimum human intervention using deep learning (Wavenet architecture). The 
@@ -13,7 +13,7 @@ One of the good sounding [generated music](https://github.com/karthiknagarajansu
 
 ## Results and Evaluation
 #### Training vs validation accuracy | Training vs validation loss
-<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="300" height="300"> <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="300" height="300">
+<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="400" height="400"> <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="400" height="400">
 
 ## See also:
 [Automatic Image generation](https://github.com/karthiknagarajansundar/image-generation-using-GAN)
