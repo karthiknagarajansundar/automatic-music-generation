@@ -12,11 +12,12 @@ One of the good sounding [generated music](https://github.com/karthiknagarajansu
 <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/output.PNG" width="500" height="250">
 
 ## Results and Evaluation
-#### Training vs validation accuracy
-<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="400" height="400">
+#### Training vs validation accuracy | Training vs validation loss
+<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="200" height="200"> <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="200" height="200">
 
-#### Training vs validation loss
-<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="400" height="400">
+## See also:
+[Automatic Image generation](https://github.com/karthiknagarajansundar/image-generation-using-GAN)
+[Other Machine learning projects](https://github.com/karthiknagarajansundar/Machine-Learning-projects)
 
 ## License
 [MIT License](https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/LICENSE)
