@@ -13,10 +13,11 @@ One of the good sounding [generated music](https://github.com/karthiknagarajansu
 
 ## Results and Evaluation
 #### Training vs validation accuracy | Training vs validation loss
-<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="200" height="200"> <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="200" height="200">
+<img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/acc.png" width="300" height="300"> <img src="https://github.com/karthiknagarajansundar/automatic-music-generation/blob/main/Images/loss.png" width="300" height="300">
 
 ## See also:
 [Automatic Image generation](https://github.com/karthiknagarajansundar/image-generation-using-GAN)
+
 [Other Machine learning projects](https://github.com/karthiknagarajansundar/Machine-Learning-projects)
 
 ## License
